@@ -50,6 +50,8 @@ Luego se hizo un `git reset c8423cc` para volver a master y recuperar los cambio
 
 - ¿Qué comando o comandos usaste en el paso 32?
 
-
+El comando usado fue `git reset --hard 89722706ef0270a388a8111d61bbeaefdcb065e0`
 
 - ¿Qué comando o comandos usaste en el punto 33?
+
+El comando usado fue `git reset --hard a4118f1`
