@@ -19,7 +19,7 @@ Hubo conflicto al intentar realizar el merge de la rama htmlify en la rama style
 
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué? 
 
-
+No hubo conflicto porque el archivo fue creado desde la rama master.
 
 - ¿Qué comando o comandos utilizaste en el paso 25? 
 
