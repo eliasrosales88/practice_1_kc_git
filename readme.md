@@ -31,10 +31,16 @@ que ya venía de master y el archivo en master no había sido modificado.
 
 - ¿Qué comando o comandos utilizaste en el paso 27?
 
-
+Se hizo un `git reset HEAD~N` N para el numero correspondiente.
 
 - ¿Qué comando o comandos utilizaste en el paso 28?
+
+Para descartar todos los cambios se uso `git checkout -- . `
+
 - ¿Qué comando o comandos utilizaste en el paso 29?
+
+
+
 - ¿Qué comando o comandos utilizaste en el paso 30?
 - ¿Qué comando o comandos usaste en el paso 32?
 - ¿Qué comando o comandos usaste en el punto 33?
