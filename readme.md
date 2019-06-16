@@ -22,8 +22,17 @@ Hubo conflicto al intentar realizar el merge de la rama htmlify en la rama style
 
 
 - ¿Qué comando o comandos utilizaste en el paso 25? 
+
+El comando que se uso fue `git log --graph --decorate --pretty=oneline`
+
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué? 
+Si podía ser un merge fast forward porque solo se hizo sobre un archivo 
+que ya venía de master y el archivo en master no había sido modificado.
+
 - ¿Qué comando o comandos utilizaste en el paso 27?
+
+
+
 - ¿Qué comando o comandos utilizaste en el paso 28?
 - ¿Qué comando o comandos utilizaste en el paso 29?
 - ¿Qué comando o comandos utilizaste en el paso 30?
